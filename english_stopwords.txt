@@ -589,6 +589,7 @@ line
 little
 lk
 ll
+lol
 long
 longer
 longest
@@ -1272,6 +1273,18 @@ xxa
 xaxa
 xa0
 xe
+xc
+xo
+xf
+ho
+xed
+ea
+chi
+nh
+xu
+eef
+edf
+xec
 y
 ye
 year
